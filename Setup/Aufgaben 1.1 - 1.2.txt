@@ -1,0 +1,14 @@
+Erkläre die Abkürzung ODM und welche Funktion ODM wahrnimmt.
+
+ODM bedeutet Object Document Mapper, ein ODM ist wie Übersetzer zwischen objektorientierten Programmiersprache also Phyton und der dokumentenorientierten Speicher also BSON bei Mongo.
+
+
+
+
+
+Richte dein System so ein, dass du über Python eine Verbindung zur Datenbank herstellen kannst.
+Erstelle dazu ein kleines Testprogramm.
+
+Erstmal pip install pymongo, dann file main.py im Projektordner erstellen und Code rein kopieren von Webseite und zum Schluss das File Starten.
+
+Ich hab ein Test Programm erstellt welches eine Datenbank mit einer Collection erstellt, welche meinen Vor und Nachnamen beinhalten und dann wieder ausgeben.
